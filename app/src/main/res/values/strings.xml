@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Transport Sahayak</string>
+    <string name="header_title">Transport Sahayak</string>
+    <string name="header_subtitle">Transporter Complaint System</string>
+
+    <string name="select_language">Select Your Language</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="marathi">मराठी</string>
+    <string name="btn_continue">Continue</string>
+
+    <string name="menu_title">Select Service</string>
+    <string name="file_complaint">File Complaint</string>
+    <string name="ro_details">RO Details &amp; Map</string>
+    <string name="trem_card">TREM Card</string>
+    <string name="feedback">Feedback</string>
+    <string name="btn_officer_login">Officer Login</string>
+
+    <string name="title_transporter_details">TRANSPORTER DETAILS</string>
+    <string name="title_incident_location">INCIDENT LOCATION</string>
+    <string name="title_grievance_details">GRIEVANCE DETAILS</string>
+
+    <string name="hint_your_name">Your Name</string>
+    <string name="hint_search_vehicle">Search Tank Lorry (e.g. 1234)</string>
+    <string name="hint_transporter_name">Transporter Name</string>
+    <string name="hint_search_outlet">Search Retail Outlet</string>
+    <string name="hint_description">Description (Optional)</string>
+    <string name="label_category">Category</string>
+    <string name="btn_send_whatsapp">Send via WhatsApp</string>
+
+    <string name="title_feedback">Depot Feedback</string>
+    <string name="subtitle_feedback">Rate Depot Operations &amp; Services</string>
+    <string name="hint_feedback_comment">Suggestions for Depot improvement...</string>
+    <string name="btn_submit_feedback">Submit Suggestion</string>
+    <string name="btn_give_feedback">Depot Feedback / Suggestions</string>
+    <string name="feedback_success">Thank you for your suggestion!</string>
+
+    <string-array name="complaint_categories">
+        <item>Gaadi khali nahi kar rahe (Decantation mein delay)</item>
+        <item>DC nahi kar rahe</item>
+        <item>TL load ho chuki hai par RO ka banda abhi tak nahi aaya</item>
+        <item>Night unloading allow nahi kar rahe</item>
+        <item>Driver se extra waiting karne ko bol rahe hain</item>
+        <item>Ullage ka issue bata rahe hain</item>
+        <item>Dip mein shortage bolkar delay kar rahe hain</item>
+        <item>Dip shortage likh rahen hain bina top up kiye</item>
+        <item>Underground tank mein shortage bata rahe hain</item>
+        <item>RO staff ka behaviour theek nahi hai</item>
+        <item>RO par Manager / Dealer available nahi hai</item>
+        <item>Staff shortage ki wajah se delay kar rahe hain</item>
+        <item>Dealer call receive nahi kar raha</item>
+        <item>EM lock nahi laga rahe</item>
+        <item>Weighment / calibration ka issue bata rahe hain</item>
+        <item>RO par space nahi hai gaadi khadi karne ke liye</item>
+        <item>Product quality issue bolkar unloading roak rahe hain</item>
+        <item>Weather (baarish) ka reason dekar delay kar rahe hain</item>
+        <item>Others (Description mein detail likhein)</item>
+    </string-array>
+</resources>

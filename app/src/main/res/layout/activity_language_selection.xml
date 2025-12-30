@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F4F8"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginBottom="24dp"
+        android:contentDescription="App Logo"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Transport Sahayak"
+        android:textColor="#1565C0"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:text="Select Your Language\nभाषा चुनें / भाषा निवडा"
+        android:textColor="#666666"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnEnglish"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#1565C0"
+        android:text="English"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="8dp" />
+
+    <Button
+        android:id="@+id/btnHindi"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#1565C0"
+        android:text="हिंदी"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="8dp" />
+
+    <Button
+        android:id="@+id/btnMarathi"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:backgroundTint="#1565C0"
+        android:text="मराठी"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="8dp" />
+
+</LinearLayout>

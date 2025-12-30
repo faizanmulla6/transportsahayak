@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315888278618",
+    "project_id": "transport-sahayak",
+    "storage_bucket": "transport-sahayak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315888278618:android:86782e763eb5cd11028c63",
+        "android_client_info": {
+          "package_name": "com.transportsahayak.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoVrrVH_N5RFGMreFM8f3ENG0fpaXQfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
